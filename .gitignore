@@ -7,3 +7,8 @@
 .vscode/
 .pytest_cache
 src.egg-info
+*.sqlite3
+venv
+config.ini
+src/config.ini
+.idea
